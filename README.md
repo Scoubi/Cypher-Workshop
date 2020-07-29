@@ -15,14 +15,16 @@ Option 2 from OpenJDK : https://openjdk.java.net/projects/jdk/11/
 - Extract the archive
 - Go in neo4j directory `cd neo4j-community-4.0.7`
 - Delete the `data` folder  
-- Download this data.tgz from this repo 
-- Extract data.tgz in `./neo4j-community-4.0.7`
+- Download this [data.tgz] from this repo 
+- Extract data.tgz in `./neo4j-community-4.0.7`  
+```tar -zxf data.tgz ./```
 - Start neo4j `cd bin` then `./neo4j console` in Linux/Mac or `neo4j console` in Windows
-- Using your browser, connect to the console http://localhost:7474
-User: *neo4j*  
-Pass: *neo4jj*  
+- Using your browser, connect to the console http://localhost:7474  
+User: **neo4j**  
+Pass: **neo4jj**  
 ***Note: You can change the password, but do not loose it, you will need it for the workshop***
 
 ## Optional
 ### Install BloodHound 3.0.5
-Download BloodHound : https://github.com/BloodHoundAD/BloodHound/releases/download/3.0.5/BloodHound-linux-x64.zip
+Download BloodHound : https://github.com/BloodHoundAD/BloodHound/releases/download/3.0.5/BloodHound-linux-x64.zip  
+It will help with one or two lab questions
