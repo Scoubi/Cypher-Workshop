@@ -22,7 +22,7 @@ Option 2 from OpenJDK : https://openjdk.java.net/projects/jdk/11/
 - Using your browser, connect to the console http://localhost:7474  
 User: **neo4j**  
 Pass: **neo4jj**  
-***Note: You can change the password, but do not loose it, you will need it for the workshop***
+**Note: You can change the password, but _do not loose it_, you will need it for the workshop**
 
 ## Optional
 ### Install BloodHound 3.0.5
