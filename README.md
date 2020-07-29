@@ -3,7 +3,8 @@
 ## Before the Workshop
 
 ### D/L the deck
-This file
+[BTV%20-%20Cypher%20For%20Defenders.pdf.zip]  
+https://github.com/Scoubi/Cypher-Workshop/blob/master/BTV%20-%20Cypher%20For%20Defenders.pdf.zip
 The password will be provided at the begining of the Workshop
 
 ### Install Java 11 jdk
