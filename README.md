@@ -3,8 +3,8 @@
 ## Before the Workshop
 
 ### D/L the deck
-[BTV%20-%20Cypher%20For%20Defenders.pdf.zip]  
-https://github.com/Scoubi/Cypher-Workshop/blob/master/BTV%20-%20Cypher%20For%20Defenders.pdf.zip
+[Cypher For Defender](BTV%20-%20Cypher%20For%20Defenders.pdf.zip)  
+
 The password will be provided at the begining of the Workshop
 
 ### Install Java 11 jdk
@@ -16,7 +16,7 @@ Option 2 from OpenJDK : https://openjdk.java.net/projects/jdk/11/
 - Extract the archive
 - Go in neo4j directory `cd neo4j-community-4.0.7`
 - Delete the `data` folder  
-- Download this [data.tgz] from this repo 
+- Download this [data.tgz](data.tgz) 
 - Extract data.tgz in `./neo4j-community-4.0.7`  
 ```tar -zxf data.tgz ./```
 - Start neo4j `cd bin` then `./neo4j console` in Linux/Mac or `neo4j console` in Windows
