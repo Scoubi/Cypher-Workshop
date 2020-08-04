@@ -36,5 +36,5 @@ Pass: **neo4jj**
 
 ## Optional
 ### Install BloodHound 3.0.5
-Download BloodHound : https://github.com/BloodHoundAD/BloodHound/releases/download/3.0.5/BloodHound-linux-x64.zip  
+Download BloodHound : https://github.com/BloodHoundAD/BloodHound/releases/download/3.0.5/
 It will help with one or two lab questions
