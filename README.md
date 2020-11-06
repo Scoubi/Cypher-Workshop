@@ -9,7 +9,7 @@ The password will be provided at the begining of the Workshop
 
 ### Install Java 11 jdk
 Option 1 from Oracle : https://www.oracle.com/java/technologies/javase-jdk11-downloads.html (need registration)  
-Option 2 from OpenJDK : https://openjdk.java.net/projects/jdk/11/  
+Option 2 from OpenJDK : https://jdk.java.net/java-se-ri/11  
   
 On *Debian Based Linux* you can use `sudo apt install openjdk-11-jre-headless`  
   
