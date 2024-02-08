@@ -5,7 +5,7 @@
 ### D/L the deck
 [Cypher For Defender](BTV%20-%20Cypher%20For%20Defenders.zip)  
 
-The password will be provided at the begining of the Workshop
+The password is : **28Deadpool28**
 
 ### Install Java 11 jdk
 Option 1 from Oracle : https://www.oracle.com/java/technologies/javase-jdk11-downloads.html (need registration)  
